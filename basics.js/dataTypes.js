@@ -28,3 +28,9 @@ undefined -> no value provided
 // const carFunction= function(){
 //     console.log("Car is Mustang GT ");
 // }
+
+
+//+++++++++++++++++++++++++++++++++++++++++
+
+
+// Stack(Primitive) , Heap(Non-Primitive) 
