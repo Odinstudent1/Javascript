@@ -1,9 +1,9 @@
-const name = "hitesh"
-const repoCount = 50
+const name = "Parth"
+const repoCount = 5
 
 // console.log(name + repoCount + " Value");
 
-console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);
+console.log(`Hello my  name is ${name} and my Repoistory count is ${repoCount}`);
 
 const gameName = new String('hitesh-hc-com')
 
