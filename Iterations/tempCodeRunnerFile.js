@@ -1,0 +1,1 @@
+console.log(`Each char is ${greet}`)
